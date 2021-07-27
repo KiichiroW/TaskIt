@@ -1,2 +1,2 @@
-# TaskIt
-A quick and convenient note taking application for to-do lists, goals, etc.
+# Task-It
+A currently in-progress application that helps you keep track of small notes, lists, goals, and really whatever you need to jot down. Allows for multiple Notes to be created and quickly accessable. The theme color can be customized using the color palette button, notes deleted with the trash can icon or renamed by right-clicking on the lefthand Note icon. Task-it will save your progress on exit and is a quick and convinient way to keep life on track and organized. Note orders can be moved up and down using Control + Up/Down Arrow.
