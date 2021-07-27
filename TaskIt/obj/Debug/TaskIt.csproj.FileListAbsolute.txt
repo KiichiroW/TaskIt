@@ -1,0 +1,92 @@
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\TaskIt.exe.config
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\TaskIt.exe
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\TaskIt.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.Properties.Resources.resources
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.exe
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.Form1.resources
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.Form2.resources
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\CommonServiceLocator.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Buffers.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Memory.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.ValueTuple.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Core.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Foundation.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.UI.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Xaml.dll
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Buffers.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Memory.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\System.ValueTuple.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Core.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Core.xml
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\darka\source\repos\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.CopyComplete
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\TaskIt.exe.config
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\TaskIt.exe
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\TaskIt.pdb
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\CommonServiceLocator.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Buffers.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Memory.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.ValueTuple.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Core.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Foundation.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.UI.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Xaml.dll
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Buffers.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Collections.Immutable.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Memory.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\System.ValueTuple.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Core.pdb
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Core.xml
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.AssemblyReference.cache
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.Form1.resources
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.Form2.resources
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.Properties.Resources.resources
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.GenerateResource.cache
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.CoreCompileInputs.cache
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.csproj.CopyComplete
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.exe
+C:\Users\darka\Downloads\DownloadFIles\Task-It Repo\TaskIt\TaskIt\obj\Debug\TaskIt.pdb
